@@ -1,0 +1,8 @@
+fun main (){
+    
+    var nome = "Danilo"
+    var idade = 14
+    var pais = "Brasil"
+    var cidade = "São Paulo"
+    
+    println("Meu nome é $nome, eu tenho $idade anos, vivo em $cidade, $pais")
