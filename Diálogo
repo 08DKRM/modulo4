@@ -1,0 +1,17 @@
+/** 
+* You can edit, run, and share this code. 
+* play.kotlinlang.org 
+*/ 
+fun main() { 
+    println ("Personagem 1 - Olá") 
+    println ("Personagem 2 - Olá, como vai?") 
+    println ("Personagem 1 - Bem") 
+    println ("...") 
+    println ("Personagem 2 - Então, você viu o Jornal?") 
+    println ("Personagem 1 - Não") 
+    println ("...") 
+    println ("Personagem 1 - Então, você viu o TGA?") 
+    println ("Personagem 2 - Sim, eu vi... O Elden Ring ganhou o GOTY") 
+    println ("Personagem 1 - E teve o Bill CLinton") 
+    println ("*Conversa acaba*") 
+} 
