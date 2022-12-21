@@ -1,0 +1,60 @@
+/* Variáveis
+* Variáveis - guardam valores
+* 
+* var - mutável, pode ser alterado
+* val - não mútavel
+*/
+
+/* Principais Tipos de Variáveis:
+ * string = armazena textos (dentro de aspas)
+ * boolean = verdadeiro ou falso, sim ou não, 1 ou 0
+ * int = números inteiros
+ * float = números reais (baixo número de casas decimais)
+ * double = números reais (alto número de casas decimais)
+ * long = números reais (número completo)
+*/
+
+/* Operadores Lógicos:
+ * - = Subtração
+ * + = Adição
+ * * = Multiplicação
+ * / = Divisão
+ * % = Módulo (Resto da Divisão)
+ */
+
+/*
+ * = = dar valor a algo
+ * * ++ = Adiciona 1 de um valor
+ * -- = Subtrai 1 de um valor
+ */
+
+/* Operadores Relacionais:
+ * == = Igual a algo
+ * != = Diferente a algo
+ * > = Maior que
+ * < = Menor que
+ * >= = Maior ou igual que
+ * <= = Menor ou igual que
+ */
+
+/* If e Else:
+ * 
+ * Estrutura:
+ * if(condition) {
+ * action
+ * }else{
+ * action
+ * }
+ */
+    
+/* If e Else Composto:
+ * 
+ * Estrutura:
+ * if(condition) {
+ * action
+ * }else if (confição){
+ * action
+ * }else{
+ * action
+ * }
+ */
