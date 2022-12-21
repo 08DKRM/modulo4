@@ -6,3 +6,4 @@ var vidas = 1
     println ("1 Vida")
     }else{
     println ("$vidas Vidas")}
+}
