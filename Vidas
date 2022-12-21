@@ -1,0 +1,9 @@
+fun main() {
+var vidas = 1
+    if(vidas <= 0){
+    println("Morto")
+    }else if(vidas == 1){
+    println ("1 Vida")
+    }else{
+    println ("$vidas Vidas")}
+    }
