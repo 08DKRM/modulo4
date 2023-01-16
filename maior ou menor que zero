@@ -1,0 +1,26 @@
+fun main() {
+    
+/*
+    var numero1 = 10
+    var numero2 = 10 
+    
+    if(numero1 > numero2){ //verificando se o n1 é maior que o n2
+        println(numero1)
+    }else{
+        println(numero2) //verificando se o n1 não é maior que o n2
+    }}
+*/
+
+    //faça um programa que verifique se o valor de uma variável é maior, igual, ou menor que 0
+    
+    var numero = 3.141592653589793
+    
+    if(numero > 0){
+        println("o número é maior que zero")
+    }else if(numero < 0){
+        println("o número é menor que zero")
+    }else{
+    	println("o número é igual a zero")
+        
+    }
+    }
