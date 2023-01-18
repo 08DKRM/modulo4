@@ -1,0 +1,62 @@
+fun main(args: Array<String>) {
+
+
+/*
+    var op = 0
+
+    while(op != 3)
+    {
+        println ("Escolha 1 opção: |" +
+                " 1 - Novo Jogo |" +
+                " 2 - Continue |" +
+                " 3 - Sair |")
+        op = readLine()!!.toInt()
+
+        if (op == 1)
+        {
+            println("\nIniciamos um novo game\n\n")
+        }
+        if (op == 2)
+        {
+            println("\nContinuamos um novo game\n\n")
+        }
+
+    }
+
+    println ("Fim de Jogo")
+    */
+
+    //----------------------------------------------------\\
+
+    var a = 0
+
+    while (a != 5)
+    {
+        println ("Escolha 1 opção para fazer nesta situação |" +
+                " 1 - Entrar na casa |" +
+                " 2 - Andar ao redor |" +
+                " 3 - Correr para longe |" +
+                " 4 - Ligar para alguém |" +
+                " 5 - Morrer")
+        a = readLine()!!.toInt ()
+
+        if (a == 1)
+        {
+            println("\nVocê entrou na casa e se deparou com um urso\n\n")
+    }
+        if (a == 2)
+        {
+            println("\nVocê andou ao redor da casa e não encontrou nada\n\n")
+        }
+        if (a == 3)
+        {
+            println("\nVocê correu para longe e regrediu em sua jornada\n\n")
+        }
+        if (a == 4)
+        {
+            println("\nVocê ligou para alguém, porém isso não ajudou\n\n")
+        }
+
+}
+    println ("Você morreu")
+}
