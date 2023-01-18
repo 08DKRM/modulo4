@@ -1,0 +1,11 @@
+fun main() {
+   for (numero in 1..100){
+       println (a (numero))
+   }
+    }
+
+fun a(numero:Int) = when {
+    numero % 15 == 0 -> "a"
+    numero % 5 == 0 -> "b"
+    numero % 3 == 0 -> "c"
+    else ->  "$numero"
