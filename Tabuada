@@ -1,0 +1,13 @@
+fun main() {
+    println ("Tabuada do 2:")
+    for(n in 1..10){
+        println (n*2)
+    }
+    println()
+    
+    println ("Tabuada do 3:")
+    for(n in 1..10){
+        println (n*3)
+    }
+    
+    }
