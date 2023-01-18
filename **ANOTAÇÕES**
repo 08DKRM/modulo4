@@ -58,3 +58,90 @@
  * action
  * }
  */
+
+  //Operadores Lógicos
+    // && -> e
+    // || -> ou
+    //
+    //V - verdadeiro
+    //F - falso
+    //
+    // &&
+    //VV  - Executa
+    //VF  - Não executará 
+    //FV  - não executará 
+    //FF  - não
+    //
+    // ||
+    //VV  - Executa
+    //VF  - Executa
+    //FV  - Executa
+    //FF  - não executará
+    
+    // When - quando
+    //
+ // When - quando
+    
+    //Laços de Repetição - repete uma ação quando uma determinada
+    // condição for verdadeira
+    //
+    // while -> enquanto
+    // 
+    // do.. while -> faça..enquanto
+    //  
+    // for -> para
+    //   
+    // repeat -> repita
+    // 
+    // ----------------------------------
+    //
+    //  repeat - repita
+    //  
+    //  estrutura do repeat 
+    //  
+    //  repeat(vezes q vai ser repetido){
+    //  ações
+    //  }
+
+    //Laço While - enquanto
+    //
+    //Estrutura while
+    //
+    //while(condição){
+    //ações
+    //}
+    
+    
+    
+    //Laço do.. while -> faça enquanto
+    //
+    //executa a ação enquanto for verdadeira
+    //
+    // estrutura do do..while
+    // 
+    //  do{
+    //  ação
+    //  }while(condição)
+    //  
+   
+    //exercício - Faça um programa, utilizando while,
+    // que mostre no console os número de 0 a 100
+    // 
+    
+    //Faça um programa utilizando 2 variáveis, e que mostre no console, os números de 0 até N,
+    //onde N(você decide o valor) é o valor de uma das variáveis
+  
+ //Faça um programa utilizando 2 variáveis, e que mostre no console, os números de 0 até N,
+    //onde N(você decide o valor) é o valor de uma das variáveis
+
+    // Laço for - para
+    // Estrutura do for
+    // 
+    // for(i in interválo/conllection)
+    // {
+    // ações
+    // }
+    
+
+     //Faça uma tabuada de um número(que não seja a do 1 e do 0)
+     //até o décimo multiplo usando, o laço for
