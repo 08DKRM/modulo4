@@ -1,0 +1,11 @@
+fun main() {
+    var coracoes = 2
+    var vidas = 3
+    
+    if(coracoes <= 2&& vidas <= 3){
+        println("Game Over")
+    }else{
+        println("O jogo será reiniciado")
+    }
+    
+    }
