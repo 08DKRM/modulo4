@@ -1,0 +1,10 @@
+fun main() {
+    var dia = 7
+    
+    while(dia <= 7){
+        println(dia)
+        dia++
+        
+    }
+   
+    }
